@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "703768737053",
+    "firebase_url": "https://harshblog-52f3c.firebaseio.com",
+    "project_id": "harshblog-52f3c",
+    "storage_bucket": "harshblog-52f3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703768737053:android:c63fd78f0b1564399e5df4",
+        "android_client_info": {
+          "package_name": "com.example.harshblog_webview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703768737053-lmp3i1cce2dah0rj43rdv0ilir6shlsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhXSVz6pVsxyfAO9EwVhlvWblrk4jExBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703768737053-lmp3i1cce2dah0rj43rdv0ilir6shlsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
