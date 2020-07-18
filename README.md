@@ -28,7 +28,7 @@ Built using
 
 ___
 Some snaps from the app and the full video will be updated soon in this.<br>
-Full Video link:-  <br>
+Full Video link:- https://youtu.be/edxw-JmhOeA <br>
 ![snap](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1595074941/readme%20images/harsh%20blog%20webview/WhatsApp_Image_2020-07-18_at_5.48.30_PM_iruopz.jpg)
 ![snap](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1595074940/readme%20images/harsh%20blog%20webview/WhatsApp_Image_2020-07-18_at_5.48.30_PM_1_ow2ckn.jpg)
 ![snap](https://res.cloudinary.com/harshkumarkhatri/image/upload/v1595074935/readme%20images/harsh%20blog%20webview/WhatsApp_Image_2020-07-18_at_5.48.29_PM_khdy5a.jpg)
